@@ -8,7 +8,8 @@ Mario Pugh
 
 Project: Prep #1
 
-**Communication plan:** 
+**Communication plan:**
+ 
 We will communicate using slack, Remo, or Google meet as a main resource for
 communication. And Google drive to store any documents. GitHub Project as a
 tracking tool for our project progression.
@@ -22,6 +23,7 @@ top of day and end of day meeting to reflect on what we have completed
 and what needs to be completed.
 
 **Conflict plan:**
+
 How we talk about problems, allow each team member to have a voice and 
 opinion, we will communicate with each other respectfully first, listen 
 with an open mind and review any issues with constructive feedback, 
@@ -42,15 +44,18 @@ we will talk to the instructor.
 We will actively listen and communicate effectively to achieve the same goal. 
 
 **Work Plan:**
+
 GitHub Project as our work plan and to keep our progress on each 
 task and assignment of the task will be discussed as a group. 
 Split workload equally so we are contributing equally.
 
 **Git process**
+
 We will use github for our repository for any of our code that 
 we use for our project. We will create a branch for each section of the code.
 
 **Standard hour**
+
 We will set the meeting each day in Remo from 9 AM to 6 PM, normal 
 lab time, deciding on what the objective will be for the day and 
 then dive into more details about the objective and if work is done 
@@ -60,6 +65,7 @@ forward according to the completion of our project. Tasks will be
 discussed in a verbal discussion within the requirements of the project. 
 
 **After hour communication**
+
 We will discuss any pull requests or questions we have over the Slack and Whatsapp.
 
 **Additional Comments:**
