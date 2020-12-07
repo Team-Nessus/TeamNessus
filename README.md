@@ -20,4 +20,4 @@ Then implement software and services to secure the system from attacks.
 # Pentest Process:
 
 
-[pentest]: https://github.com/Team-Nessus/TeamNessus/blob/feature/Pictures/pen-testing.jpg
+![pentest](https://github.com/Team-Nessus/TeamNessus/blob/feature/Pictures/pen-testing.jpg)
