@@ -21,3 +21,5 @@ Then implement software and services to secure the system from attacks.
 
 
 ![pentest](https://github.com/Team-Nessus/TeamNessus/blob/feature/Pictures/pen-testing.jpg)
+
+![Draw.io Network Diagram](https://drive.google.com/file/d/1pb3Mt09z27Bl6gyklC5NpRgvLGS0gPq5/view?usp=sharing)
