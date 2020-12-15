@@ -1,7 +1,5 @@
 # TeamNessus
 
-# Team Members:
-
 Dom
 
 Mario
