@@ -16,6 +16,7 @@ Jeff
 
 [Incident Response](https://docs.google.com/document/d/1bt7GdFf5aXP7yux5Aqv_u1iMRrJGZT-0uYt-26duTY4/edit?usp=sharing)
 
+[Team Nessus Slide Deck](https://docs.google.com/presentation/d/1400LKuZf2GRU5dPP7bKiXdNcxINjBLVo6TULxxpEBd4/edit?usp=sharing)
 
 # Project Description:
 This project will encompass performing a penetration test against a remote system.
