@@ -10,7 +10,7 @@ David
 
 Jeff
 
-# Project Deliverables
+# Project Deliverables:
 
 # Project Description:
 This project will encompass performing a penetration test against a remote system.
